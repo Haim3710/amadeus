@@ -38,7 +38,7 @@
 
 ```sudo systemctl restart apache2```
 
-Теперь можем получить доступ к phpMyAdmin, перейдя по адресу http://127.0.0.1/phpmyadmin в нашем браузере.
+Теперь можем получить доступ к phpMyAdmin, перейдя по адресу http://localhost/phpmyadmin в нашем браузере.
 
 ![Скриншот](https://github.com/Haim3710/amadeus/blob/main/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20Amadeus.jpg)
 
