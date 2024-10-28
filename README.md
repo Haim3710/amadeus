@@ -40,6 +40,9 @@
 
 Теперь можем получить доступ к phpMyAdmin, перейдя по адресу http://127.0.0.1/phpmyadmin в нашем браузере.
 
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+
 Следующие шаги:
 
 Настройка брандмауэра для защиты сервера.
